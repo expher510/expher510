@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Saad;Back-End+Developer;Python+%7C+FastAPI+%7C+Rust;Automation+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Saad;Back-End+Developer;Python+%7C+FastAPI+%7C+Rust;Automation+%7C+Docker+%7C+CI%2FCD" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Passionate Back-End Developer from Egypt</h3>
@@ -65,12 +65,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=expher510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=expher510&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=expher510&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=expher510&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=expher510&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=expher510&theme=tokyonight&hide_border=true" width="60%" />
 </p>
 
 ---
@@ -88,6 +88,15 @@
 <p align="center">
   <a href="https://github.com/expher510">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ali-saad-b17941401/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/4zCVhgDFH">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://wa.me/201097390799">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
