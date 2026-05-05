@@ -83,35 +83,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=expher510&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📌 Pinned Projects
-
-<p align="center">
-  <a href="https://github.com/expher510/AutoClip-Pipeline">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=expher510&repo=AutoClip-Pipeline&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/expher510/telegram-proxy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=expher510&repo=telegram-proxy&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/expher510/video-api-interface">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=expher510&repo=video-api-interface&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/expher510/meta_ai_automation_v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=expher510&repo=meta_ai_automation_v2&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
